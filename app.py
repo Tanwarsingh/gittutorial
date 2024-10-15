@@ -1,7 +1,6 @@
-def addition(a,b,c):
+def addition(a,b):
     return a+b
-def add2(c,d):
-    return c*d
+
 
 def substraction(a,b):
     return a-b
@@ -11,3 +10,6 @@ def division(a,b):
 
 def multiplication(a,b):
     return a*b
+
+def sum(c,d):
+    return c+d
